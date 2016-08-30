@@ -4,7 +4,7 @@ Docker and containers are getting a lot of attention these days but what do they
 
 ## Presenter Information
 
-* Christopher M. Judd, [Manifest Solutions](https://www.manifestcorp.com)
+* Christopher M. Judd, [Manifest Solutions](http://www.manifestcorp.com)
 * [Twitter: @javajudd](https://twitter.com/javajudd)
 * javajudd@gmail.com
 
