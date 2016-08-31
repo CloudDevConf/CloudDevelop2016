@@ -8,7 +8,7 @@ Azure Automation is a highly available automation service which helps you "Autom
 
 ## Notes
 
-My slides can be found in the PDF file in this folder. Since I'm not a fan of bullet points they will not be as useful as attending the session was. There is a ton of resources on the internet for learning more about Azure Automation, but I recommend the Learning Path from the Automation documentation pages as the best place to start.
+My slides can be found in the PDF file in this folder. Since I'm not a fan of bullet points they will not be as useful as attending the session was. There are a ton of resources on the internet for learning more about Azure Automation, but I recommend the Learning Path from the Automation documentation pages as the best place to start.
 
 
 
